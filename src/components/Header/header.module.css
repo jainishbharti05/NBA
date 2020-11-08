@@ -1,0 +1,24 @@
+.header {
+    background: #242424;
+    border-bottom: 1px solid #000000;
+    padding: 0;
+}
+
+.headerOpt{
+    display: flex;
+}
+
+.logo {
+    flex-grow: 1;
+    padding-top: 8px;
+
+}
+
+.logo img {
+    height: 50px;
+}
+
+.bars {
+    display: flex;
+    align-items: center;
+}
